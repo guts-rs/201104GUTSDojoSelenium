@@ -1,0 +1,1 @@
+Dojo de selenium IDE realizado pelo GUTS-RS. 
